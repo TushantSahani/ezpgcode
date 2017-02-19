@@ -1,0 +1,6 @@
+<?php
+define('DB_SERVER', 'ezpgms.cikl8jynxmvc.ap-south-1.rds.amazonaws.com');
+define('DB_USER', 'ezpg_all');
+define('DB_PASSWORD', 'sosoyoyo246');
+define('DB', 'ezpgms');
+?>
